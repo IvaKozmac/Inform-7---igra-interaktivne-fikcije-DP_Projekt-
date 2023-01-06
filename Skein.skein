@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-1">
+  <generator>Windows Inform 10.1.2</generator>
+  <item nodeId="node-1">
+    <command xml:space="preserve">Igra interaktivne fikcije</command>
+    <result xml:space="preserve">You wake up in a Bedroom. You don't know the place or why are you here. Follow the riddles and find your way out.&#x000A;Igra interaktivne fikcije&#x000A;An Interactive Fiction by Iva Kozmac&#x000A;Release 1 / Serial number 230106 / Inform 7 v10.1.2 / D&#x000A;&#x000A;Bedroom&#x000A;There is one bed, one desk and one chair. On the desk you can see the old Book about animals.&#x000A;&#x000A;You can see Bedroom door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-195"/>
+      <child nodeId="node-333"/>
+      <child nodeId="node-274"/>
+    </children>
+  </item>
+  <item nodeId="node-195">
+    <command xml:space="preserve">Bug spray</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-198"/>
+    </children>
+  </item>
+  <item nodeId="node-198">
+    <command xml:space="preserve">Bug spray</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-199"/>
+    </children>
+  </item>
+  <item nodeId="node-199">
+    <command xml:space="preserve">take bug spray</command>
+    <result xml:space="preserve">Use it when you most need it. &#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-200"/>
+    </children>
+  </item>
+  <item nodeId="node-200">
+    <command xml:space="preserve">badroom door</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-201"/>
+    </children>
+  </item>
+  <item nodeId="node-201">
+    <command xml:space="preserve">open bedroom door</command>
+    <result xml:space="preserve">You open Bedroom door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-202"/>
+    </children>
+  </item>
+  <item nodeId="node-202">
+    <command xml:space="preserve">go to hallway</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-206"/>
+    </children>
+  </item>
+  <item nodeId="node-206">
+    <command xml:space="preserve">go to Hallway</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-207"/>
+    </children>
+  </item>
+  <item nodeId="node-207">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Bedroom&#x000A;There is one bed, one desk and one chair. On the desk you can see Bug spray and the old Book about animals.&#x000A;&#x000A;You can see Bedroom door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-208"/>
+    </children>
+  </item>
+  <item nodeId="node-208">
+    <command xml:space="preserve">open bedroom door</command>
+    <result xml:space="preserve">That's already open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-209"/>
+    </children>
+  </item>
+  <item nodeId="node-209">
+    <command xml:space="preserve">hallway</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-210"/>
+    </children>
+  </item>
+  <item nodeId="node-210">
+    <command xml:space="preserve">go through bedroom door</command>
+    <result xml:space="preserve">Hallway&#x000A;A long, narrow room, with one old wardrobe and one Black door with a Riddle on it. Riddle is: I can fly but I'm not a helicopter. I'm an insect but I'm not an ant. I'm yellow and black but I'm not a butterfly. I can sting but I'm not a wasp.&#x000A;&#x000A;You can see Bedroom door and Black door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-211"/>
+    </children>
+  </item>
+  <item nodeId="node-211">
+    <command xml:space="preserve">open black door</command>
+    <result xml:space="preserve">You open Black door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-212"/>
+    </children>
+  </item>
+  <item nodeId="node-212">
+    <command xml:space="preserve">open black door</command>
+    <result xml:space="preserve">That's already open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-213"/>
+    </children>
+  </item>
+  <item nodeId="node-213">
+    <command xml:space="preserve">close black door</command>
+    <result xml:space="preserve">You close Black door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-214"/>
+    </children>
+  </item>
+  <item nodeId="node-214">
+    <command xml:space="preserve">open black door</command>
+    <result xml:space="preserve">You open Black door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-215"/>
+    </children>
+  </item>
+  <item nodeId="node-215">
+    <command xml:space="preserve">go through black door</command>
+    <result xml:space="preserve">Dinning room&#x000A;In the room are a chest and a Key. In the Chest is Riddle about animal you need rescue. &#x000A;&#x000A;You can see Black door, Red door, Bee, Key and Chest (closed) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-216"/>
+    </children>
+  </item>
+  <item nodeId="node-216">
+    <command xml:space="preserve">enter dinning room</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-217"/>
+    </children>
+  </item>
+  <item nodeId="node-217">
+    <command xml:space="preserve">see</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-218"/>
+    </children>
+  </item>
+  <item nodeId="node-218">
+    <command xml:space="preserve">go through black door</command>
+    <result xml:space="preserve">Hallway&#x000A;A long, narrow room, with one old wardrobe and one Black door with a Riddle on it. Riddle is: I can fly but I'm not a helicopter. I'm an insect but I'm not an ant. I'm yellow and black but I'm not a butterfly. I can sting but I'm not a wasp.&#x000A;&#x000A;You can see Black door and Bedroom door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-219"/>
+    </children>
+  </item>
+  <item nodeId="node-219">
+    <command xml:space="preserve">go through black door</command>
+    <result xml:space="preserve">Dinning room&#x000A;In the room are a chest and a Key. In the Chest is Riddle about animal you need rescue. &#x000A;&#x000A;You can see Black door, Red door, Bee, Key and Chest (closed) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-220"/>
+    </children>
+  </item>
+  <item nodeId="node-220">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-221"/>
+    </children>
+  </item>
+  <item nodeId="node-221">
+    <command xml:space="preserve">Take a key</command>
+    <result xml:space="preserve">You already have that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-222"/>
+    </children>
+  </item>
+  <item nodeId="node-222">
+    <command xml:space="preserve">unlock chest</command>
+    <result xml:space="preserve">What do you want to unlock Chest with?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-223"/>
+    </children>
+  </item>
+  <item nodeId="node-223">
+    <command xml:space="preserve">key</command>
+    <result xml:space="preserve">You unlock Chest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-224"/>
+    </children>
+  </item>
+  <item nodeId="node-224">
+    <command xml:space="preserve">open chest</command>
+    <result xml:space="preserve">I'm colorful but I'm not a rainbow. I'm sometimes found on a shoulder but I'm not a bag strap. I have two legs but Im not an ostrich. I can talk but I'm not a person. I can fly but I'm not an airplane.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-225"/>
+    </children>
+  </item>
+  <item nodeId="node-225">
+    <command xml:space="preserve">open red door</command>
+    <result xml:space="preserve">You open Red door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-226"/>
+    </children>
+  </item>
+  <item nodeId="node-226">
+    <command xml:space="preserve">go through red door</command>
+    <result xml:space="preserve">Kitchen&#x000A;In the kitchen you can see big Kitchen table with some food and little conrol panel. Also, there is a lot of kitchen elements and a big Mirror.&#x000A;&#x000A;You can see Red door, Mirror and a control panel here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-227"/>
+    </children>
+  </item>
+  <item nodeId="node-227">
+    <command xml:space="preserve">use control panel</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-228"/>
+    </children>
+  </item>
+  <item nodeId="node-228">
+    <command xml:space="preserve">switch control panel</command>
+    <result xml:space="preserve">Mirror is moving and reveal secret passage!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-229"/>
+    </children>
+  </item>
+  <item nodeId="node-229">
+    <command xml:space="preserve">go through mirror</command>
+    <result xml:space="preserve">Secret passage&#x000A;You can't see what is at the end of the passage because it is dark.&#x000A;&#x000A;You can see Mirror, Colorful door and a light switch here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-230"/>
+    </children>
+  </item>
+  <item nodeId="node-230">
+    <command xml:space="preserve">turn of </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-231"/>
+    </children>
+  </item>
+  <item nodeId="node-231">
+    <command xml:space="preserve">switch of</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-232"/>
+    </children>
+  </item>
+  <item nodeId="node-232">
+    <command xml:space="preserve">switch on</command>
+    <result xml:space="preserve">What do you want to switch on?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-233"/>
+    </children>
+  </item>
+  <item nodeId="node-233">
+    <command xml:space="preserve">light switch</command>
+    <result xml:space="preserve">This dangerous act would achieve little.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-234"/>
+    </children>
+  </item>
+  <item nodeId="node-234">
+    <command xml:space="preserve">push light switch</command>
+    <result xml:space="preserve">Now you can see colorful in the end of secret passage.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-235"/>
+    </children>
+  </item>
+  <item nodeId="node-235">
+    <command xml:space="preserve">push light switch</command>
+    <result xml:space="preserve">You can't see anything again.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-236"/>
+    </children>
+  </item>
+  <item nodeId="node-236">
+    <command xml:space="preserve">push light switch</command>
+    <result xml:space="preserve">Now you can see colorful in the end of secret passage.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-237"/>
+    </children>
+  </item>
+  <item nodeId="node-237">
+    <command xml:space="preserve">push light switch</command>
+    <result xml:space="preserve">You can't see anything again.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-238"/>
+    </children>
+  </item>
+  <item nodeId="node-238">
+    <command xml:space="preserve">push light switch</command>
+    <result xml:space="preserve">Now you can see colorful in the end of secret passage.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-239"/>
+    </children>
+  </item>
+  <item nodeId="node-239">
+    <command xml:space="preserve">go through mirror</command>
+    <result xml:space="preserve">Kitchen&#x000A;In the kitchen you can see big Kitchen table with some food and little conrol panel. Also, there is a lot of kitchen elements and a big Mirror.&#x000A;&#x000A;You can see Mirror, Red door and a control panel here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-240"/>
+    </children>
+  </item>
+  <item nodeId="node-240">
+    <command xml:space="preserve">switch control panel</command>
+    <result xml:space="preserve">The Mirror closes again.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-241"/>
+    </children>
+  </item>
+  <item nodeId="node-241">
+    <command xml:space="preserve">switch control panel</command>
+    <result xml:space="preserve">Mirror is moving and reveal secret passage!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-242"/>
+    </children>
+  </item>
+  <item nodeId="node-242">
+    <command xml:space="preserve">go through mirror</command>
+    <result xml:space="preserve">Secret passage&#x000A;You can't see what is at the end of the passage because it is dark.&#x000A;&#x000A;You can see Mirror, Colorful door and a light switch here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-243"/>
+    </children>
+  </item>
+  <item nodeId="node-243">
+    <command xml:space="preserve">push light switch</command>
+    <result xml:space="preserve">You can't see anything again.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-244"/>
+    </children>
+  </item>
+  <item nodeId="node-244">
+    <command xml:space="preserve">switch</command>
+    <result xml:space="preserve">What do you want to switch?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-245"/>
+    </children>
+  </item>
+  <item nodeId="node-245">
+    <command xml:space="preserve">light</command>
+    <result xml:space="preserve">What do you want to light?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-246"/>
+    </children>
+  </item>
+  <item nodeId="node-246">
+    <command xml:space="preserve">switch</command>
+    <result xml:space="preserve">What do you want to switch?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-247"/>
+    </children>
+  </item>
+  <item nodeId="node-247">
+    <command xml:space="preserve">light switch</command>
+    <result xml:space="preserve">This dangerous act would achieve little.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-248"/>
+    </children>
+  </item>
+  <item nodeId="node-248">
+    <command xml:space="preserve">push </command>
+    <result xml:space="preserve">What do you want to push?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-249"/>
+    </children>
+  </item>
+  <item nodeId="node-249">
+    <command xml:space="preserve">light switch</command>
+    <result xml:space="preserve">This dangerous act would achieve little.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-250"/>
+    </children>
+  </item>
+  <item nodeId="node-250">
+    <command xml:space="preserve">push light switch</command>
+    <result xml:space="preserve">Now you can see colorful in the end of secret passage.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-251"/>
+    </children>
+  </item>
+  <item nodeId="node-251">
+    <command xml:space="preserve">go in secret room</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-252"/>
+    </children>
+  </item>
+  <item nodeId="node-252">
+    <command xml:space="preserve">open colorful door</command>
+    <result xml:space="preserve">You open Colorful door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-253"/>
+    </children>
+  </item>
+  <item nodeId="node-253">
+    <command xml:space="preserve">go through colorful door</command>
+    <result xml:space="preserve">Secret room&#x000A;Secret room is big room with a lot of things in it. There are some toys, cockroaches, big closets, two desks, some bags and one animal. If you want save animal, take a food and it will follow you.&#x000A;&#x000A;You can see Colorful door, Seed mix, Carrot, Apple and Parrot here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-254"/>
+    </children>
+  </item>
+  <item nodeId="node-254">
+    <command xml:space="preserve">open colorful door</command>
+    <result xml:space="preserve">That's already open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-255"/>
+    </children>
+  </item>
+  <item nodeId="node-255">
+    <command xml:space="preserve">go through colorful door</command>
+    <result xml:space="preserve">Secret passage&#x000A;You can't see what is at the end of the passage because it is dark.&#x000A;&#x000A;You can see Colorful door, Mirror and a light switch here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-256"/>
+    </children>
+  </item>
+  <item nodeId="node-256">
+    <command xml:space="preserve">go through colorful door</command>
+    <result xml:space="preserve">Secret room&#x000A;Secret room is big room with a lot of things in it. There are some toys, cockroaches, big closets, two desks, some bags and one animal. If you want save animal, take a food and it will follow you.&#x000A;&#x000A;You can see Colorful door, Seed mix, Carrot, Apple and Parrot here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-257"/>
+    </children>
+  </item>
+  <item nodeId="node-257">
+    <command xml:space="preserve">ask</command>
+    <result xml:space="preserve">What do you want to ask Parrot for?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-258"/>
+    </children>
+  </item>
+  <item nodeId="node-258">
+    <command xml:space="preserve">parrot</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-259"/>
+    </children>
+  </item>
+  <item nodeId="node-259">
+    <command xml:space="preserve">ask parrot</command>
+    <result xml:space="preserve">What do you want to ask Parrot for?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-260"/>
+    </children>
+  </item>
+  <item nodeId="node-260">
+    <command xml:space="preserve">parrot</command>
+    <result xml:space="preserve">(Parrot first taking Parrot)&#x000A;Parrot has better things to do.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-261"/>
+    </children>
+  </item>
+  <item nodeId="node-261">
+    <command xml:space="preserve">what animal is it</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-262"/>
+    </children>
+  </item>
+  <item nodeId="node-262">
+    <command xml:space="preserve">parrot</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-263"/>
+    </children>
+  </item>
+  <item nodeId="node-263">
+    <command xml:space="preserve">ask</command>
+    <result xml:space="preserve">What do you want to ask Parrot for?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-264"/>
+    </children>
+  </item>
+  <item nodeId="node-264">
+    <command xml:space="preserve">what animal is it</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-265"/>
+    </children>
+  </item>
+  <item nodeId="node-265">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You choose the right food.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-266"/>
+    </children>
+  </item>
+  <item nodeId="node-266">
+    <command xml:space="preserve">carry seed mix</command>
+    <result xml:space="preserve">You already have that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-267"/>
+    </children>
+  </item>
+  <item nodeId="node-267">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You already have that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-268"/>
+    </children>
+  </item>
+  <item nodeId="node-268">
+    <command xml:space="preserve">take</command>
+    <result xml:space="preserve">What do you want to take?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-269"/>
+    </children>
+  </item>
+  <item nodeId="node-269">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You already have that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-270"/>
+    </children>
+  </item>
+  <item nodeId="node-270">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You already have that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-271"/>
+    </children>
+  </item>
+  <item nodeId="node-271">
+    <command xml:space="preserve">drop seed mix</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-272"/>
+    </children>
+  </item>
+  <item nodeId="node-272">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You choose the right food.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-273"/>
+    </children>
+  </item>
+  <item nodeId="node-273">
+    <command xml:space="preserve">carry parrot</command>
+    <result xml:space="preserve">I don't suppose Parrot would care for that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-333">
+    <command xml:space="preserve">open bedroom door</command>
+    <result xml:space="preserve">You open Bedroom door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-334"/>
+    </children>
+  </item>
+  <item nodeId="node-334">
+    <command xml:space="preserve">go through bedroom door</command>
+    <result xml:space="preserve">Hallway&#x000A;A long, narrow room, with one old wardrobe and one Black door with a Riddle on it. Riddle is: I can fly but I'm not a helicopter. I'm an insect but I'm not an ant. I'm yellow and black but I'm not a butterfly. I can sting but I'm not a wasp.&#x000A;&#x000A;You can see Bedroom door and Black door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-335"/>
+    </children>
+  </item>
+  <item nodeId="node-335">
+    <command xml:space="preserve">open black door</command>
+    <result xml:space="preserve">You open Black door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-336"/>
+    </children>
+  </item>
+  <item nodeId="node-336">
+    <command xml:space="preserve">go through black door</command>
+    <result xml:space="preserve">Dinning room&#x000A;In the room are a chest and a Key. In the Chest is Riddle about animal you need rescue. But first use something to put Bee to sleep or they will attack you.&#x000A;&#x000A;You can see Black door, Red door, Bee, a Bug spray, Key and Chest (closed) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-337"/>
+    </children>
+  </item>
+  <item nodeId="node-337">
+    <command xml:space="preserve">use bug spray on bee</command>
+    <result xml:space="preserve">You aren't carrying the Bug spray.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-338"/>
+    </children>
+  </item>
+  <item nodeId="node-338">
+    <command xml:space="preserve">take bug spray</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-339"/>
+    </children>
+  </item>
+  <item nodeId="node-339">
+    <command xml:space="preserve">use bug spray on bee</command>
+    <result xml:space="preserve">You put Bee in sleep with the Bug spray. You can continue your action.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-340"/>
+    </children>
+  </item>
+  <item nodeId="node-340">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-341"/>
+    </children>
+  </item>
+  <item nodeId="node-341">
+    <command xml:space="preserve">unlock chest</command>
+    <result xml:space="preserve">What do you want to unlock Chest with?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-342"/>
+    </children>
+  </item>
+  <item nodeId="node-342">
+    <command xml:space="preserve">key</command>
+    <result xml:space="preserve">You unlock Chest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-343"/>
+    </children>
+  </item>
+  <item nodeId="node-343">
+    <command xml:space="preserve">open chest</command>
+    <result xml:space="preserve">I'm colorful but I'm not a rainbow. I'm sometimes found on a shoulder but I'm not a bag strap. I have two legs but Im not an ostrich. I can talk but I'm not a person. I can fly but I'm not an airplane.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-344"/>
+    </children>
+  </item>
+  <item nodeId="node-344">
+    <command xml:space="preserve">open red door</command>
+    <result xml:space="preserve">You open Red door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-345"/>
+    </children>
+  </item>
+  <item nodeId="node-345">
+    <command xml:space="preserve">go through red door</command>
+    <result xml:space="preserve">Kitchen&#x000A;In the kitchen you can see big Kitchen table with some food and little conrol panel. Also, there is a lot of kitchen elements and a big Mirror.&#x000A;&#x000A;You can see Red door, Mirror and a control panel here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-346"/>
+    </children>
+  </item>
+  <item nodeId="node-346">
+    <command xml:space="preserve">use control panel</command>
+    <result xml:space="preserve">What do you want to use the control panel on?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-347"/>
+    </children>
+  </item>
+  <item nodeId="node-347">
+    <command xml:space="preserve">sitch</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-348"/>
+    </children>
+  </item>
+  <item nodeId="node-348">
+    <command xml:space="preserve">switch</command>
+    <result xml:space="preserve">What do you want to switch?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-349"/>
+    </children>
+  </item>
+  <item nodeId="node-349">
+    <command xml:space="preserve">control panel</command>
+    <result xml:space="preserve">Mirror is moving and reveal secret passage!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-350"/>
+    </children>
+  </item>
+  <item nodeId="node-350">
+    <command xml:space="preserve">go through mirror</command>
+    <result xml:space="preserve">Secret passage&#x000A;You can't see because its dark here. Turn on the light and continue your action.&#x000A;&#x000A;You can see Mirror, Colorful door and a light switch here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-351"/>
+    </children>
+  </item>
+  <item nodeId="node-351">
+    <command xml:space="preserve">push light switch</command>
+    <result xml:space="preserve">You can now see your way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-352"/>
+    </children>
+  </item>
+  <item nodeId="node-352">
+    <command xml:space="preserve">open colorful door</command>
+    <result xml:space="preserve">You open Colorful door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-353"/>
+    </children>
+  </item>
+  <item nodeId="node-353">
+    <command xml:space="preserve">go through colorful door</command>
+    <result xml:space="preserve">Secret room&#x000A;Secret room is big room with a lot of things in it. There are some toys, cockroaches, big closets, two desks, some bags, old key and one animal. If you want save animal, take a food and it will follow you. You can only escape if you go through Back door.&#x000A;&#x000A;You can see Colorful door, Back door, Old key, Seed mix, Carrot, Apple and Parrot here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-354"/>
+    </children>
+  </item>
+  <item nodeId="node-354">
+    <command xml:space="preserve">take carrot</command>
+    <result xml:space="preserve">You choose wrong food, try again.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-355"/>
+    </children>
+  </item>
+  <item nodeId="node-355">
+    <command xml:space="preserve">drop carrot</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-356"/>
+    </children>
+  </item>
+  <item nodeId="node-356">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You are carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-357"/>
+    </children>
+  </item>
+  <item nodeId="node-357">
+    <command xml:space="preserve">take old key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-358"/>
+    </children>
+  </item>
+  <item nodeId="node-358">
+    <command xml:space="preserve">unlock back door</command>
+    <result xml:space="preserve">What do you want to unlock Back door with?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-359"/>
+    </children>
+  </item>
+  <item nodeId="node-359">
+    <command xml:space="preserve">old key</command>
+    <result xml:space="preserve">You unlock Back door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-360"/>
+    </children>
+  </item>
+  <item nodeId="node-360">
+    <command xml:space="preserve">open back door</command>
+    <result xml:space="preserve">You open Back door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-361"/>
+    </children>
+  </item>
+  <item nodeId="node-361">
+    <command xml:space="preserve">go through back door</command>
+    <result xml:space="preserve">This is the end, you saved animal. Good job. &#x000A;&#x000A;&#x000A;    *** You can go back to reality. ***&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-274">
+    <command xml:space="preserve">take Bug spray</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-275"/>
+    </children>
+  </item>
+  <item nodeId="node-275">
+    <command xml:space="preserve">Open Bedroom door</command>
+    <result xml:space="preserve">You open Bedroom door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-276"/>
+    </children>
+  </item>
+  <item nodeId="node-276">
+    <command xml:space="preserve">Go through Bedroom door</command>
+    <result xml:space="preserve">Hallway&#x000A;A long, narrow room, with one old wardrobe and one Black door with a Riddle on it. Riddle is: I can fly but I'm not a helicopter. I'm an insect but I'm not an ant. I'm yellow and black but I'm not a butterfly. I can sting but I'm not a wasp.&#x000A;&#x000A;You can see Bedroom door and Black door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-277"/>
+    </children>
+  </item>
+  <item nodeId="node-277">
+    <command xml:space="preserve">open black door</command>
+    <result xml:space="preserve">You open Black door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-278"/>
+    </children>
+  </item>
+  <item nodeId="node-278">
+    <command xml:space="preserve">got through black door</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-279"/>
+    </children>
+  </item>
+  <item nodeId="node-279">
+    <command xml:space="preserve">go through black door</command>
+    <result xml:space="preserve">Dinning room&#x000A;In the room are a chest and a Key. In the Chest is Riddle about animal you need rescue. But first use something to put Bee to sleep or they will attack you.&#x000A;&#x000A;You can see Black door, Red door, Bee, a Bug spray, Key and Chest (closed) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-280"/>
+    </children>
+  </item>
+  <item nodeId="node-280">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-281"/>
+    </children>
+  </item>
+  <item nodeId="node-281">
+    <command xml:space="preserve">open chest</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-282"/>
+    </children>
+  </item>
+  <item nodeId="node-282">
+    <command xml:space="preserve">unlock chest</command>
+    <result xml:space="preserve">(with Key)&#x000A;You unlock Chest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-283"/>
+    </children>
+  </item>
+  <item nodeId="node-283">
+    <command xml:space="preserve">key</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-284"/>
+    </children>
+  </item>
+  <item nodeId="node-284">
+    <command xml:space="preserve">open chest</command>
+    <result xml:space="preserve">I'm colorful but I'm not a rainbow. I'm sometimes found on a shoulder but I'm not a bag strap. I have two legs but Im not an ostrich. I can talk but I'm not a person. I can fly but I'm not an airplane.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-285"/>
+    </children>
+  </item>
+  <item nodeId="node-285">
+    <command xml:space="preserve">open red door</command>
+    <result xml:space="preserve">You open Red door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-286"/>
+    </children>
+  </item>
+  <item nodeId="node-286">
+    <command xml:space="preserve">go through red door</command>
+    <result xml:space="preserve">Kitchen&#x000A;In the kitchen you can see big Kitchen table with some food and little conrol panel. Also, there is a lot of kitchen elements and a big Mirror.&#x000A;&#x000A;You can see Red door, Mirror and a control panel here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-287"/>
+    </children>
+  </item>
+  <item nodeId="node-287">
+    <command xml:space="preserve">use control panel</command>
+    <result xml:space="preserve">(on Key)&#x000A;other instances of using here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-288"/>
+    </children>
+  </item>
+  <item nodeId="node-288">
+    <command xml:space="preserve">switch contrl panel</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-289"/>
+    </children>
+  </item>
+  <item nodeId="node-289">
+    <command xml:space="preserve">switch control panel</command>
+    <result xml:space="preserve">Mirror is moving and reveal secret passage!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-290"/>
+    </children>
+  </item>
+  <item nodeId="node-290">
+    <command xml:space="preserve">go thtough mirror</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-291"/>
+    </children>
+  </item>
+  <item nodeId="node-291">
+    <command xml:space="preserve">go through mirror</command>
+    <result xml:space="preserve">Secret passage&#x000A;You can't see what is at the end of the passage because it is dark.&#x000A;&#x000A;You can see Mirror, Colorful door and a light switch here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-292"/>
+    </children>
+  </item>
+  <item nodeId="node-292">
+    <command xml:space="preserve">push light witch</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-293"/>
+    </children>
+  </item>
+  <item nodeId="node-293">
+    <command xml:space="preserve">push light switch</command>
+    <result xml:space="preserve">Now you can see colorful in the end of secret passage.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-294"/>
+    </children>
+  </item>
+  <item nodeId="node-294">
+    <command xml:space="preserve">open colorful</command>
+    <result xml:space="preserve">You open Colorful door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-295"/>
+    </children>
+  </item>
+  <item nodeId="node-295">
+    <command xml:space="preserve">go through colorful oor</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-296"/>
+    </children>
+  </item>
+  <item nodeId="node-296">
+    <command xml:space="preserve">go through colorful door</command>
+    <result xml:space="preserve">Secret room&#x000A;Secret room is big room with a lot of things in it. There are some toys, cockroaches, big closets, two desks, some bags, old key and one animal. If you want save animal, take a food and it will follow you. You can oly escape if you go through Back door.&#x000A;&#x000A;You can see Colorful door, Back door, Old key, Seed mix, Carrot, Apple and Parrot here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-297"/>
+    </children>
+  </item>
+  <item nodeId="node-297">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You are carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-298"/>
+    </children>
+  </item>
+  <item nodeId="node-298">
+    <command xml:space="preserve">drop seed mix</command>
+    <result xml:space="preserve">You aren't carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-299"/>
+    </children>
+  </item>
+  <item nodeId="node-299">
+    <command xml:space="preserve">take carrot</command>
+    <result xml:space="preserve">You choose wrong food, try again.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-300"/>
+    </children>
+  </item>
+  <item nodeId="node-300">
+    <command xml:space="preserve">take parrot</command>
+    <result xml:space="preserve">I don't suppose Parrot would care for that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-301"/>
+    </children>
+  </item>
+  <item nodeId="node-301">
+    <command xml:space="preserve">drop parrot</command>
+    <result xml:space="preserve">Parrot is already here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-302"/>
+    </children>
+  </item>
+  <item nodeId="node-302">
+    <command xml:space="preserve">drop carrot</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-303"/>
+    </children>
+  </item>
+  <item nodeId="node-303">
+    <command xml:space="preserve">take carrot</command>
+    <result xml:space="preserve">You choose wrong food, try again.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-304"/>
+    </children>
+  </item>
+  <item nodeId="node-304">
+    <command xml:space="preserve">drop carrot</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-305"/>
+    </children>
+  </item>
+  <item nodeId="node-305">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You are carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-306"/>
+    </children>
+  </item>
+  <item nodeId="node-306">
+    <command xml:space="preserve">drop seed mix</command>
+    <result xml:space="preserve">You aren't carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-307"/>
+    </children>
+  </item>
+  <item nodeId="node-307">
+    <command xml:space="preserve">take parrot</command>
+    <result xml:space="preserve">I don't suppose Parrot would care for that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-308"/>
+    </children>
+  </item>
+  <item nodeId="node-308">
+    <command xml:space="preserve">carry parrot</command>
+    <result xml:space="preserve">I don't suppose Parrot would care for that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-309"/>
+    </children>
+  </item>
+  <item nodeId="node-309">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You are carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-310"/>
+    </children>
+  </item>
+  <item nodeId="node-310">
+    <command xml:space="preserve">drop seed mix</command>
+    <result xml:space="preserve">You aren't carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-311"/>
+    </children>
+  </item>
+  <item nodeId="node-311">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You are carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-312"/>
+    </children>
+  </item>
+  <item nodeId="node-312">
+    <command xml:space="preserve">drop seed mix</command>
+    <result xml:space="preserve">You aren't carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-313"/>
+    </children>
+  </item>
+  <item nodeId="node-313">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You are carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-314"/>
+    </children>
+  </item>
+  <item nodeId="node-314">
+    <command xml:space="preserve">drop seed mix</command>
+    <result xml:space="preserve">You aren't carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-315"/>
+    </children>
+  </item>
+  <item nodeId="node-315">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You are carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-316"/>
+    </children>
+  </item>
+  <item nodeId="node-316">
+    <command xml:space="preserve">drop seed mix</command>
+    <result xml:space="preserve">You aren't carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-317"/>
+    </children>
+  </item>
+  <item nodeId="node-317">
+    <command xml:space="preserve">take seed mix</command>
+    <result xml:space="preserve">You are carrying the Parrot.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-318"/>
+    </children>
+  </item>
+  <item nodeId="node-318">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-319"/>
+    </children>
+  </item>
+  <item nodeId="node-319">
+    <command xml:space="preserve">take old key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-320"/>
+    </children>
+  </item>
+  <item nodeId="node-320">
+    <command xml:space="preserve">unlock back door</command>
+    <result xml:space="preserve">What do you want to unlock Back door with?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-321"/>
+    </children>
+  </item>
+  <item nodeId="node-321">
+    <command xml:space="preserve">old key</command>
+    <result xml:space="preserve">You unlock Back door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-322"/>
+    </children>
+  </item>
+  <item nodeId="node-322">
+    <command xml:space="preserve">open back door</command>
+    <result xml:space="preserve">You open Back door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-323"/>
+    </children>
+  </item>
+  <item nodeId="node-323">
+    <command xml:space="preserve">go through back door</command>
+    <result xml:space="preserve">This is the end, you saved animal. Good job. &#x000A;&#x000A;&#x000A;    *** You can go back to reality. ***&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-324"/>
+    </children>
+  </item>
+  <item nodeId="node-324">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">You wake up in a Bedroom. You don't know the place or why are you here. Follow the riddles and find your way out.&#x000A;Igra interaktivne fikcije&#x000A;An Interactive Fiction by Iva Kozmac&#x000A;Release 1 / Serial number 230105 / Inform 7 v10.1.2 / D&#x000A;&#x000A;Bedroom&#x000A;There is one bed, one desk and one chair. On the desk you can see Bug spray and the old Book about animals.&#x000A;&#x000A;You can see Bedroom door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-325"/>
+    </children>
+  </item>
+  <item nodeId="node-325">
+    <command xml:space="preserve">open badroom door</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-326"/>
+    </children>
+  </item>
+  <item nodeId="node-326">
+    <command xml:space="preserve">bedroom door</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-327"/>
+    </children>
+  </item>
+  <item nodeId="node-327">
+    <command xml:space="preserve">open Bedroom door</command>
+    <result xml:space="preserve">You open Bedroom door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-328"/>
+    </children>
+  </item>
+  <item nodeId="node-328">
+    <command xml:space="preserve">go through Bedroom door</command>
+    <result xml:space="preserve">Hallway&#x000A;A long, narrow room, with one old wardrobe and one Black door with a Riddle on it. Riddle is: I can fly but I'm not a helicopter. I'm an insect but I'm not an ant. I'm yellow and black but I'm not a butterfly. I can sting but I'm not a wasp.&#x000A;&#x000A;You can see Bedroom door and Black door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-329"/>
+    </children>
+  </item>
+  <item nodeId="node-329">
+    <command xml:space="preserve">open black door</command>
+    <result xml:space="preserve">You open Black door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-330"/>
+    </children>
+  </item>
+  <item nodeId="node-330">
+    <command xml:space="preserve">go through black door</command>
+    <result xml:space="preserve">Dinning room&#x000A;In the room are a chest and a Key. In the Chest is Riddle about animal you need rescue. But first use something to put Bee to sleep or they will attack you.&#x000A;&#x000A;You can see Black door, Red door, Bee, a Bug spray, Key and Chest (closed) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-331"/>
+    </children>
+  </item>
+  <item nodeId="node-331">
+    <command xml:space="preserve">take bug spray</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-332"/>
+    </children>
+  </item>
+  <item nodeId="node-332">
+    <command xml:space="preserve">use bug spray on bee</command>
+    <result xml:space="preserve">You put Bee in sleep with the Bug spray. You can continue your action.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+</Skein>
